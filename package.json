@@ -24,7 +24,9 @@
     "morgan": "^1.10.0",
     "swagger-ui-express": "^4.1.4",
     "tomoxjs": "^0.5.7",
-    "winston": "^3.2.1"
+    "url-join": "^4.0.1",
+    "winston": "^3.2.1",
+    "ws": "^7.3.1"
   },
   "devDependencies": {
     "eslint": "^7.2.0",
