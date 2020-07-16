@@ -5,5 +5,10 @@
     },
     "logs": {
         "level": "debug"
+    },
+    "stats": {
+        "username": "xx",
+        "password": "xx",
+        "uri": "https://metrics.tomochain.com"
     }
 }
