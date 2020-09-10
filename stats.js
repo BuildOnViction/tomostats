@@ -10,6 +10,7 @@ let chunk = {
 
 ws.on('close', () => { 
     console.log('WS closed!')
+    process.exit()
 })
 
 ws.on('open', function connection() {
