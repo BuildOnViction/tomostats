@@ -16,7 +16,7 @@
     "bignumber.js": "^9.0.0",
     "body-parser": "^1.19.0",
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.5.0",
     "helmet": "^3.23.0",
     "js-yaml": "^3.14.0",
